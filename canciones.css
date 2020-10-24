@@ -1,0 +1,15 @@
+h1{
+    margin-left: 36%;
+}
+.canciones{
+    margin-left: 37%;
+}
+.boton{
+    margin-left: 43%;
+}
+button{
+    border-radius: 5px;
+}
+button:hover{
+    background-color: salmon;
+}
